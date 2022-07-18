@@ -1,4 +1,4 @@
-# Wordle-Clone
+# Jordle: Wordle in JavaScript
 Clone of the famous game, Wordle.  
 
 ### Description 
