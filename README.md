@@ -2,7 +2,8 @@
 Clone of the famous game, Wordle.  
 
 ### Description 
-A Wordle Clone for you to play Wordle, anytime, anywhere. 
+A Wordle Clone for you to play Wordle, anytime, anywhere.
+Now available with dark mode. 
 
 ### Tech Stack 
 Built using HTML, CSS and JavaScript along with animate.css and toastr for non-blocking notifications. 
