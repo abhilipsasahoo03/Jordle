@@ -55,3 +55,14 @@ h1{
   cursor: pointer;
   text-transform: uppercase;
 }
+
+.dark-mode {
+    background-color: black;
+    .letter-box {
+        color: white;
+    }
+    .filled-box {
+        color: white;
+    }
+}
+    
