@@ -195,6 +195,12 @@ const animateCSS = (element, animation, prefix = 'animate__') =>
     node.addEventListener('animationend', handleAnimationEnd, {once: true});
 });
 
+// Dark mode
+function darkMode() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+
 function initBoard() {
     let board = document.getElementById("game-board");
     
