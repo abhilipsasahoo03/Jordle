@@ -215,3 +215,10 @@ function initBoard() {
 }
 
 initBoard();
+
+// Dark Mode
+
+function addDarkmodeWidget() {
+    new Darkmode().showWidget();
+}
+window.addEventListener('load', addDarkmodeWidget);
