@@ -10,8 +10,13 @@ Built using HTML, CSS and JavaScript along with animate.css and toastr for non-b
 
 ### Demo 
 
-## Screenshot
-![Screenshot_2022-04-05-18-18-09-162_com android chrome](https://user-images.githubusercontent.com/80174214/161757070-7d221bb7-1a16-4024-a4df-cedcc8d341cb.jpg)
+### Light mode
+![Screenshot_2022-07-18-19-13-34-991_com android chrome](https://user-images.githubusercontent.com/80174214/179524962-4c7bb13f-5a7d-4238-8931-b9c8b1872d14.jpg)
+
+### Dark mode
+![Screenshot_2022-07-18-19-13-32-132_com android chrome](https://user-images.githubusercontent.com/80174214/179525028-03f572d0-815d-47bb-b203-d9d2c29b8174.jpg)
+
+
 
 ## Video
 [Demo Video](https://user-images.githubusercontent.com/80174214/161750842-45cd16c8-021f-4b78-8e88-5f38bd808373.mp4) 
