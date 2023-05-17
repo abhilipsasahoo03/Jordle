@@ -17,6 +17,9 @@ Built using HTML, CSS and JavaScript along with animate.css and toastr for non-b
 ![Screenshot_2022-07-18-19-13-32-132_com android chrome](https://user-images.githubusercontent.com/80174214/179525028-03f572d0-815d-47bb-b203-d9d2c29b8174.jpg)
 
 
+![IMG_20230517_210717](https://github.com/abhilipsasahoo03/Jordle/assets/80174214/4fd149b9-d332-407f-ae3b-7740f81fcf21)
+
+
 
 ## Video
 [Demo Video](https://user-images.githubusercontent.com/80174214/161750842-45cd16c8-021f-4b78-8e88-5f38bd808373.mp4) 
